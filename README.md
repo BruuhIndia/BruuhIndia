@@ -1,6 +1,6 @@
-- 👋 Hi, we are team @BruuhIndia .
-- 👀 looking for partners .
+- 👋 Hi, i am leader developer of silly bots .
+- 👀 We are open for new members .
 - 🌱 This is our profile for our open source projects .
-- 💞️ Founder , Bruuh Indian ( Digital Agency ) 
+- 💞️ Founder , Silly Bots
 - 📫 bruuh.in@gmail.com 
-- ❤️ https://bruuhindia.netlify.app/
+- ❤️ https://discord.gg/hkgx8wTFW4
